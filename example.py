@@ -1,7 +1,7 @@
 import api
 
 # getting a token from user ID
-token = api.getToken("297974059")
+token = api.getToken("165960865")
 print("Token: " + token + "\n")
 
 # getting a username from a token

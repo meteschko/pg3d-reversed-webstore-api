@@ -4,7 +4,7 @@ def generate_user_table(username, id, email, uninit, tried):
     table_row = "{:<25} | {:<25} | {:<25} | {:<25} | {:<25}".format(username, id, email, uninit, tried)
     return table_row
 
-id = 297974000 # start from this id
+id = 165960865 # start from this id
 uninit = 0 # count of players with "new_player" as their name
 tried = 0
 

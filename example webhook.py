@@ -4,7 +4,7 @@ import httpx, random
 webhook = "https://discord.com/api/webhooks/..."
 webhook2 = "https://discord.com/api/webhooks/.." # backup webhook incase first gets rate limited
 
-id = 297979966
+id = 165960865
 uninit = 1605
 tried = 5968
 while True:
